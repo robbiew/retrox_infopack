@@ -1,0 +1,58 @@
+RETRO_X HUB (555:1/100) uses Binkp to accept connections at retroxnet.com:24555
+
++- Rules ----------------------------------------------------------------------
+
+1. Keep discussion in topic, per area name
+2. No politics
+3. Be excellent to each other (no name-calling, attacking, bullying)
+4. Have fun!
+
+The ZC has complete discretion on how to address rules violations, up to and 
+including lifetime bans. Just don't let it get there :)
+
+
++- Membership -----------------------------------------------------------------
+
+To get a node number just complete the application form below then either email 
+it to robbiew@gmail.com, or fill out the application on alphacomplex.com:2323.
+
+For anything that's not applicable below, just put "NA".
+
+Note, RETRO_X does not use packet passwords.
+
+
++ Delete the above and send the application below------------------------------
+
+RetroX Application
+
+By completing this application you agree to abide by the rules. You also consent 
+to the ZC and HUB administrators holding/using the information supplied by you 
+for the purposes of joining and administering the network. Your name, city and 
+country details will appear in the nodelist. Your name is also used in the 
+systems.txt file that lists all participating BBS and sysops involved  in
+the network.
+        
+ Your Full Name................:
+ City / Country................:
+ BBS / System Name.............:
+ BBS Software..................:
+ Operating System..............:
+ Telnet address................:
+ SSH address...................:
+ Website URL...................:
+ Email Address.................:
+ Areafix/Filefix/BinkP Password:
+
+Do you have a static IP address (for the whitelist)? 
+
+ Static IPv4 Address...........:
+ Static IPv6 Address...........:
+ 
+ Bink/Mailer Address...........:
+ Bink/Mailer Port (e.g. 24554).:
+ Crash or Hold?................:
+
+("Crash" means the hub will send mail immediately after posting, "Hold" means it
+will hold the packets until you connect and pick them up with your mailer)
+ 
++- END OF APPLICATION ---------------------------------------------------------

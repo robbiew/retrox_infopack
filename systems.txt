@@ -2,12 +2,12 @@
 
 NET 1 (555:1/xxx)
 ===============================================================================
-Node BBS Name               Sysop			    Address                  STATUS       
+Node BBS Name               Sysop           Address                     STATUS       
 ===============================================================================
-100 RetroX Global Hub       aLPHA               retroxnet.com:24554      H,P
-101 Alpha Complex           aLPHA               alphacomplex.us:2323
-102 Happyland               Apam                happylandbbs.com:11892
-103 The Ruins               The Godfather       theunderground.us:9707
+100 RetroX Global Hub       aLPHA           retroxnet.com:24554         H,P
+101 Alpha Complex           aLPHA           alphacomplex.us:2323
+102 Happyland               Apam            happylandbbs.com:11892
+103 The Ruins               JaXson          theunderground.us:9707
 
 
 KEY
